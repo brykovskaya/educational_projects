@@ -5,6 +5,6 @@
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [E-commerce - Выявление профилей потребления](https://github.com/brykovskaya/educational_projects/tree/main/project10_e_commerce) | Сегментация покупателей по профилю потребления, чтобы осуществлять более персонализированные рекламные рассылки.<br/>Выпускной проект курса Аналтик данных буткемп от Я.Практикум| python, pandas, numpy, scipy, sklearn, matplotlib       |
-| 2.   |[Проект: Дашборды о конференциях TED в Tableau](вставить ссылку)  | описание <br/>описание <br/>описание-кратко  | python, pandas, numpy, statsmodels,   matplotlib |
+| 2.   |[Проект: Дашборды о конференциях TED в Tableau]([вставить ссылку](https://github.com/brykovskaya/educational_projects/tree/main/Project_Tableau))  | описание <br/>описание <br/>описание-кратко  | python, pandas, numpy, statsmodels,   matplotlib |
 | 3.   |  |         | python, pandas,     |
 
